@@ -1,4 +1,5 @@
 l=[[1,2,3],[4,5,6],[7,8,9]]
+# l=[[1,2],[4,5],[7,8]] this only have two diagonal elements[1,5]
 k=[]
 '''
 for i in l:
